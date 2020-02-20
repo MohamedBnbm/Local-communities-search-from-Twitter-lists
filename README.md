@@ -10,6 +10,8 @@ Access to the datasets can be provided under request, contact me.
 
 [1]:Boley M, Gartner T, Grosskreutz H (2010) Formal concept sampling for counting
 and threshold-free local pattern mining. SDM pp 177 - 188
+
+
 [2]: Boley M, Lucchese C, Paurat D, Gartner T (2011) Direct local pattern sampling
 by effcient two-step random procedures. International Conference on
 Knowledge Discovery and Data Mining SIGKDD pp 582 - 590
